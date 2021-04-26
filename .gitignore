@@ -4,6 +4,8 @@
 # Mask R-CNN specific
 datasets/
 logs/
+assets/
+images/
 *.h5
 
 # Byte-compiled / optimized / DLL files
