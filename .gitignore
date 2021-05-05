@@ -9,6 +9,11 @@ images/
 cocoapi/
 *.h5
 
+# Project specific
+projects/
+.jpeg
+.tif
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
